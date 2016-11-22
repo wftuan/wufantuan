@@ -98,3 +98,14 @@ _嘉宾：陈洪超_
 * 迅雷会员（淘宝98）
 * b站、[天天美剧](http://www.ttmeiju.com/)
 * GDG: TensorFlow(开源库)、QUIC(传输协议)
+
+#### 11、生活中的利器 <small>20161122</small>
+
+* 豆浆机 - 早上定时一杯豆浆，生活更美好
+* [IFTTT](https://ifttt.com/discover) - Do more things
+* [硅胶枕头](http://baike.baidu.com/view/2124405.htm)
+* 蚕丝被
+* [GoPro](https://gopro.com/)
+* Shadowsocks 
+* 骑自行车上班
+* 刷visa白金卡 - 到泰国曼谷机票（3500），还送到东京里程
