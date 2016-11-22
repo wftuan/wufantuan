@@ -99,7 +99,7 @@ _嘉宾：陈洪超_
 * b站、[天天美剧](http://www.ttmeiju.com/)
 * GDG: TensorFlow(开源库)、QUIC(传输协议)
 
-#### 11、生活中的利器 <small>20161122</small>
+#### 11、生活中的利器(20161122)
 
 * 豆浆机 - 早上定时一杯豆浆，生活更美好
 * [IFTTT](https://ifttt.com/discover) - Do more things
