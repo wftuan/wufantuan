@@ -9,6 +9,7 @@ __Life better, Think better__
 * 2016
   * [十月](#十月)
   * [十一月](#十一月)
+  * [最下面](#最下面)
 
 ### 十月
 
@@ -116,3 +117,11 @@ _嘉宾：陈洪超_
 * 智能家具的diy (用树莓派)
 * 一块听听(公众号) - 关于区块链和李笑来的直播
 * [DIY4寸全频迷宫音箱](http://post.smzdm.com/p/495929/)
+
+#### 13、小物(20161124)
+
+* [猫王缩小版](http://shike.it168.com/report-2675.html)
+* [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages.
+
+#### 最下面
+
