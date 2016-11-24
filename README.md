@@ -120,7 +120,7 @@ _嘉宾：陈洪超_
 
 #### 13、小物(20161124)
 
-* [猫王缩小版](http://shike.it168.com/report-2675.html)
+* [猫王缩小版](http://shike.it168.com/report-2675.html) - FM收音机/蓝牙音箱
 * [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages.
 
 #### 最下面
