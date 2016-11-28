@@ -143,7 +143,7 @@ _嘉宾：陈洪超_
   * [静息心率](http://baike.baidu.com/view/3423255.htm) - 心率越慢寿命越长
   * [自住房申请条件](http://www.bjjs.gov.cn/portals/0/2016zhuanti/newbjgfzn/index.html)
 * 理想的未来生活方向
-  * 搞种植(能 & 萍)
+  * 搞种植、养小动物(能 & 萍)
   * 前沿文化 (健)
   * 哲学研究 (凯)
   * 艺术美学设计 (旺)
