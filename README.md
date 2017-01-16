@@ -175,5 +175,12 @@ __Life better, Think better__
 * 两年后，每个人都有一个基因组
 * IT->BT时代，基因测序目前是5000人民币
 
+#### 13、 好物件(20160103)
+
+* 保健品：GNC、MoveFree
+* 一个同步kindle标注和笔记到Mac的APP
+  * [Knotes](http://knotesapp.com/)
+
+
 #### 最下面
 
