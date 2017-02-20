@@ -53,8 +53,7 @@ __Life better, Think better__
 
 #### 4、中国抗日纪念馆 & 卢沟桥 (20170218)
 
-![](http://7u2qrr.com1.z0.glb.clouddn.com/2017-02-20-IMG_20170218_100818.jpg?imageView2/2/w/300)
-![](http://7u2qrr.com1.z0.glb.clouddn.com/2017-02-20-IMG_20170218_135107-EFFECTS.jpg?imageView2/2/w/300)
+![](http://7u2qrr.com1.z0.glb.clouddn.com/2017-02-20-IMG_20170218_100818.jpg?imageView2/2/w/400)
 
 * 2017第一次午饭游
 * 超出了预期的一次出行，有讲解员的投入讲解，更加系统和细节的了解了这段历史
